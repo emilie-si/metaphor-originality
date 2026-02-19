@@ -1,2 +1,2 @@
 # metaphor-originality
-Data for SIGHUM submission
+Data for NLE submission
